@@ -63,7 +63,7 @@ def overlap(today_content, yest_content):   # here overlap function does the pri
                   s = float(x['available_price']) - float(y['available_price'])
                   print("Question 2")
                   if s < 0:
-                    print( 'The available Price today is decreased to rs', float(x['available_price']) ,'from yesterday rs',float(y['available_price']),'with a decrease of rs',s,'for urlh', x['urlh'])
+                    print( 'The available Price today is decreased to rs', float(x['available_price']) ,'from yesterday rs',float(y['available_price']),'with a decrease of rs',abs(s),'for urlh', x['urlh'])
                   else :
                     print( 'The available Price today is increased to  Rs',float(x['available_price']) ,'from yesterday rs',float(y['available_price']),'with an increase of rs',s,'for urlh', x['urlh'])
                   new_list.append(x)
