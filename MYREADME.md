@@ -11,4 +11,4 @@
  #### -> a. The number of urlh overlapping . i.e I assumed overlapping of the urlh w.r.t both files and nto individual duplication
  #### -> b. Normalising as just making sure of handling NA or zero value and not a mathematical equation of the form yi = xi-min(xi)/max(xi)-min(xi).
 
-### HAVE EMBEDDED THE SAMPLE RESULTS SCREEN SHOT AND TWO MRP FILES OF A SMALL TEST DATA FOR THE EASE OF COMPUTATION AND UNDERSTANDING
+### HAVE EMBEDDED THE SAMPLE RESULTS OF TWO MRP FILES OF A SMALL TEST DATA FOR THE EASE OF COMPUTATION AND CLEAR UNDERSTANDING
