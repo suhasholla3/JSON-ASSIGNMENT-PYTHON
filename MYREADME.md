@@ -1,6 +1,6 @@
 # Here is the approach that I followed in solving the analytics problem.
 
-# Well, to run the code you can just use any editor that supports python , just change the file names to your system location where its beens saved by you.
+# Well, to run the code you can just use any editor that supports python , just change the path of file to your system location where its beens saved by you.
 
 ## MAIN HIGHLIGHTS OF HOW I CARVED THE SOLUTION TO THIS ANALYTICS PROBLEM.
 ### 1. I follow a train test approach or in simple terms modular approach ,in this context , i took a small set of data from a big dataset provided as for the testing of the code .
